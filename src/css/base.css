@@ -1,9 +1,9 @@
 body {
 	margin: 0;
-	background-color: skyblue;
+	background-color: darkred;
 }
 div {
-	width: 1000px;
+	width: 1400px;
 	height: 100px;
 	background-color: #ccc;
 	margin: 0 auto;
